@@ -51,7 +51,8 @@ Direct connection: CIRCUIT DIAGRAM:
 Cross connection: CIRCUIT DIAGRAM:
 
 ## XOR
-<img width="550" height="440" alt="Screenshot 2025-09-29 144413" src="https://github.com/user-attachments/assets/4b31421c-1d70-46e8-9e11-bbc3bac371b1" />
+<img width="641" height="503" alt="Screenshot 2025-09-29 144336" src="https://github.com/user-attachments/assets/79c4a9f1-9a70-415f-a4ce-3280a8f46432" />
+
 
 
 
